@@ -49,5 +49,4 @@
 	
 	<import resource="spring-hibernate.xml"/>
 	
-	
 </beans>
